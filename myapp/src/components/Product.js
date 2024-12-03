@@ -1,7 +1,14 @@
+import { useState } from 'react';
 import '../assets/CSS/layout.css';
 
-export default function Product(){
-    
+export default function Product({product,addToCart}){
+    const [qty,setQty] = useState(1);
+
+    const handleAddToCart=()=>{
+        if(qty>0) {
+            addToCart(product,qty);
+        }
+    }
     return(
         <div className="grid-item">
 
