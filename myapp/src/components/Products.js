@@ -26,7 +26,7 @@ export default function Products(){
                 <div className="grid-container">
                     {
                         flowers.map(flower=>(
-                           <Product key={flower.id} product={flower} addToCar={addToCart} /> 
+                           <Product key={flower.id} product={flower} addToCart={addToCart} /> 
                         ))
                     }
                 </div>
