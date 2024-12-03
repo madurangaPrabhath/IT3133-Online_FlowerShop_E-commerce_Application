@@ -2,6 +2,8 @@
 
 Welcome to the **Online Flower Shop** e-commerce application built using **React**. This application allows users to browse and purchase flowers and arrangements from a variety of categories. It features a clean and responsive interface, designed to provide a seamless shopping experience.
 
+![Output](https://github.com/user-attachments/assets/7efaa36b-92b6-4588-8d36-c53aece43505)
+
 ## 🛠 Technologies Used
 
 - **React** – JavaScript library for building user interfaces.
