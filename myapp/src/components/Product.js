@@ -1,3 +1,5 @@
+import '../assets/CSS/layout.css';
+
 export default function Product(){
     
     return(
