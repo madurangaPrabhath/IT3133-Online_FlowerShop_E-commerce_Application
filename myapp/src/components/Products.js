@@ -1,3 +1,6 @@
+import Product from "./Product";
+import Cart from "./Cart";
+
 export default function Products(){
    
     return(
